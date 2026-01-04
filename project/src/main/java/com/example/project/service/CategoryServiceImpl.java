@@ -10,8 +10,6 @@ import org.springframework.stereotype.Service;
 import com.example.project.model.Category;
 import com.example.project.repository.CategoryRepo;
 
-
-
 @Service
 public class CategoryServiceImpl implements CategoryService{
     @Autowired
